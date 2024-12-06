@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-background min-h-screen;
+}
+
+.glass-effect {
+  @apply bg-white bg-opacity-70 backdrop-blur-lg;
+}
