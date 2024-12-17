@@ -8,13 +8,16 @@
 2. **存款/提取功能**：用戶可以將 ETH 存入或提取  
 3. **餘額查詢**：實時顯示用戶在智能合約中的餘額  
 
-## 技術堆疊
+## Technology & Tools
 - **前端**：React, Ethers.js  
 - **智能合約**：Solidity  
 - **部署**：Hardhat
 ```
-## 如何運行本地專案
-1. 克隆代碼庫  
+## 項目截圖
+![image](https://github.com/user-attachments/assets/2e2422f4-53ce-4a30-a9d3-f002af3f748b)
+
+
+1. 
    ```bash
    git clone https://github.com/你的用戶名/D-Bank.git
    cd D-Bank
