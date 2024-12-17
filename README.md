@@ -12,9 +12,10 @@
 - **前端**：React, Ethers.js  
 - **智能合約**：Solidity  
 - **部署**：Hardhat
-```
+
 ## 項目截圖
-![image](https://github.com/user-attachments/assets/2e2422f4-53ce-4a30-a9d3-f002af3f748b)
+![image](https://github.com/user-attachments/assets/cb4f1397-ca42-4d83-badd-572c7fc1f048)
+
 
 
 1. 
