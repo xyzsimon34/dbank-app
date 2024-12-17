@@ -20,5 +20,6 @@
 
 1. 
    ```bash
-   git clone https://github.com/你的用戶名/D-Bank.git
-   cd D-Bank
+   git clone https://github.com/xyzsimon34/dbank-app.git
+   cd dbank
+   ```
